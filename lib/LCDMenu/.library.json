@@ -1,0 +1,38 @@
+{
+    "name": "LCDMenuLib2", 
+    "version": "2.1.0", 
+    "keywords": [
+        "display"
+    ], 
+    "description": "Easy creation of a tree based menu with screensaver and multi layers.", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "espressif8266", 
+        "espressif32"
+    ], 
+    "authors": [
+        {
+            "email": "nvip12041994@gmail.com", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "NVIP"
+        }
+    ], 
+    "repository": null,
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 1923
+}
